@@ -5,7 +5,7 @@
     padding: 0 !important; */
     box-sizing: border-box !important;
     font-family: 'Poppins', sans-serif;
-    overflow: hidden;
+    
 }
 
 .container-fluid {
@@ -13,6 +13,7 @@
     justify-content: center;
     margin: 0 ;
     padding: 0 ;
+    overflow-x: hidden;
 }
 
 .container {
